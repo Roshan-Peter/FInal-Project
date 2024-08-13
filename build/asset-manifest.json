@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acbcf3e1.css",
+    "main.js": "/static/js/main.259f2ef6.js",
+    "static/js/239.dfdb0d71.chunk.js": "/static/js/239.dfdb0d71.chunk.js",
+    "static/js/213.1276bd44.chunk.js": "/static/js/213.1276bd44.chunk.js",
+    "static/js/455.cd1183e0.chunk.js": "/static/js/455.cd1183e0.chunk.js",
+    "static/media/user_banner.jpeg": "/static/media/user_banner.4fbb7e8a53975edd993a.jpeg",
+    "static/media/bakersbasket_logo.png": "/static/media/bakersbasket_logo.469f704647229138c2da.png",
+    "static/media/bakersbasket_logo.jpg": "/static/media/bakersbasket_logo.9befb93f46facf0fa43a.jpg",
+    "static/media/amycakes.jpeg": "/static/media/amycakes.bb1572fe54905c278fb4.jpeg",
+    "static/media/Lily.jpg": "/static/media/Lily.0d3dedcfe9a687b3bfc0.jpg",
+    "static/media/Chris.jpeg": "/static/media/Chris.7e0a5669d5f584caff5f.jpeg",
+    "index.html": "/index.html",
+    "main.acbcf3e1.css.map": "/static/css/main.acbcf3e1.css.map",
+    "main.259f2ef6.js.map": "/static/js/main.259f2ef6.js.map",
+    "239.dfdb0d71.chunk.js.map": "/static/js/239.dfdb0d71.chunk.js.map",
+    "213.1276bd44.chunk.js.map": "/static/js/213.1276bd44.chunk.js.map",
+    "455.cd1183e0.chunk.js.map": "/static/js/455.cd1183e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acbcf3e1.css",
+    "static/js/main.259f2ef6.js"
+  ]
+}
